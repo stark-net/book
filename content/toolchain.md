@@ -104,7 +104,7 @@ Hello world!!!
 
  در کد فوق ما یکسری {{< tooltip text="کلید واژه" note="keyword" >}}  نظیر package , import , func استفاده کردیم که در بخش [1.2 کلید واژه و شناسه‌ها](https://book.gofarsi.ir/chapter-1/go-built-in-keywords-identifiers/) با آنها آشنا می‌شوید.
 
-## انواع نرم‌افزارهای محیط توسعه (IDE) و ویرایش‌گر کد (Code Editor)
+## انواع نرم‌افزارهای محیط توسعه (IDE) و ویرایشگر کد (Code Editor)
 در زبان برنامه‌نویسی گو نیز مثل سایر زبان‌ها، می‌توان از ابزارهای کدنویسی مانند  {{< tooltip text="نرم‌افزارهای محیط توسعه"note="IDE(s)" >}} و همچنین از  {{< tooltip text="ویرایش‌گرهای کد" note="Code Editor(s)" >}} استفاده کرد که محبوب‌ترین‌ها معرفی می‌شوند:
 
 1. نرم‌افزار [Jetbrains Goland](https://www.jetbrains.com/go/) اگر با سایر محصولات جت‌برینز آشنا باشید به‌راحتی می‌توانید از این  {{< tooltip text="نرم‌افزار محیط توسعه"note="IDE" >}}  استفاده کنید.
